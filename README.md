@@ -5,3 +5,4 @@
 - 2.webview对于js如何进行异常捕获? bugly的做法
 - 3.多进程的异常处理
 - 4.UncatchExceptionHandler 原理是什么，为什么只在Thread设置就可以捕获全局
+- 如何处理崩溃反复掉起，流量消耗问题？
